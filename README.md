@@ -1,4 +1,4 @@
-<h1>Cyber Pre-apprenticeship</h1>
+<h1>Cyber Pre-Apprenticeship</h1>
 
 
 <h3>Work ED's Cyber Pre-apprenticeship: Accelerate Your Career in 90 Hours!</h3>
