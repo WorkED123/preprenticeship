@@ -24,7 +24,7 @@ Upon the program's conclusion, participants will be poised to assume roles like 
 
 <h2>90-hour Breakdown</h2> 
 
-<h3>First 16 hours: Cybersecurity Boot Camp</h3>
+<h3><ins>First 16 hours: Cybersecurity Boot Camp</ins></h3>
 
 <ul>
 <li>Cybersecurity Principles and Terminology.</li><br>
@@ -37,7 +37,7 @@ Upon the program's conclusion, participants will be poised to assume roles like 
 
 </ul>
 
-<h3>Hours 17-74: Industry Instruction and Projects</h3>
+<h3><ins>Hours 17-74: Industry Instruction and Projects</ins></h3>
 <ul>
 <li>Practical Exposure (Remote & On-site) & Job Shadowing. </li><br>
 <li>Networking & Consultation: Align with the organization's business needs and undertake student projects approved by Work ED staff.</li><br>
@@ -45,7 +45,7 @@ Upon the program's conclusion, participants will be poised to assume roles like 
 </ul>
 
 
-<h3>Final 16 hours: Capstone Presentation and CTF</h3>
+<h3><ins>Final 16 hours: Capstone Presentation and CTF</ins></h3>
 <ul>
 <li>Crafting the Final Presentation.</li><br>
 <li>Independent presentation preparation time.</li><br>
