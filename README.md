@@ -56,5 +56,10 @@ Upon the program's conclusion, participants will be poised to assume roles like 
 
 </ul>
 
+<h2>Student Resources</h2>
+
+<li><h3><a href="https://drive.google.com/file/d/1xihTAIo6arx4JyeHcQlUBNMCSfjQnifW/view?usp=sharing">Cyber Pre-Apprenticeship Student's Reflection</a></h3></li>
+
+<li><h3><a href="https://drive.google.com/file/d/1Zc3H46wAdEaCmZ0c6h7J1ksgG0bJfPBV/view?usp=sharing">Cyber Apprentice Student Manual</a></h3></li>
 
 
