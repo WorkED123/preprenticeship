@@ -62,4 +62,5 @@ Upon the program's conclusion, participants will be poised to assume roles like 
 
 <li><h3><a href="https://drive.google.com/file/d/1Zc3H46wAdEaCmZ0c6h7J1ksgG0bJfPBV/view?usp=sharing">Cyber Apprentice Student Manual</a></h3></li>
 
+<li><h3><a href="https://docs.google.com/presentation/d/1UwWIR8iHAkMkkjRqNDLr1w4NCJvcl06x/edit?usp=sharing&ouid=110228847857413878764&rtpof=true&sd=true">Cyber Apprentice Presentation </a></h3></li>
 
